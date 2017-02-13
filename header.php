@@ -5,7 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
     <meta name="renderer" content="webkit">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="google-site-verification" content="-QZD16YSUq2ZY2drDED7CyD1jqR_WQLS_OGQKfmAWa4" />
     <title>
     	<?php $this->archiveTitle(array(
             'category'  =>  _t('分类 %s 下的文章'),
